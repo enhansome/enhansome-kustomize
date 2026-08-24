@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 688675400,
                 "language": "Go",
-                "last_commit": "2026-08-23T20:28:04Z",
+                "last_commit": "2026-08-24T12:10:51Z",
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
                 "stars": 39
@@ -136,9 +136,73 @@
           "description": null,
           "node_type": "group",
           "title": "Transformers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KubeconformValidator",
+              "description": "Validating Kubernetes manifests using embedded Kubeconform (Containerized KRM, Exec KRM).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624932700,
+                "language": "Go",
+                "last_commit": "2023-09-09T22:32:11Z",
+                "owner": "DevOpsHiveHQ",
+                "repo": "kustomize-plugin-kubeconform",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Validators"
         }
       ],
       "title": "Plugins"
+    },
+    {
+      "description": "Snippets are Kustmoize use-case-specific examples that can help with common day-to-day operations.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Add Pod security context",
+          "description": "Ensure the security context is added to containers in the Pod.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1067815638,
+            "language": null,
+            "last_commit": "2025-10-26T10:14:29Z",
+            "owner": "3deep5me",
+            "repo": "awesome-kustomize",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Snippets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Asdf-kustomize",
+          "description": "Kustomize plugin for asdf version manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193585397,
+            "language": "Shell",
+            "last_commit": "2026-08-18T19:16:58Z",
+            "owner": "Banno",
+            "repo": "asdf-kustomize",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Misc"
     },
     {
       "description": null,
@@ -155,7 +219,7 @@
             "last_commit": "2026-06-23T13:33:19Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16056
+            "stars": 16055
           }
         },
         {
@@ -193,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:12:58.978Z",
+    "last_updated": "2026-08-24T14:37:04.217Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "original_repository_id": 580511160,
     "original_repository_sha": "9ffa6628725ac877ce54d1fd18715893c79c4a81",
