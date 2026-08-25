@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 688675400,
                 "language": "Go",
-                "last_commit": "2026-08-24T12:10:51Z",
+                "last_commit": "2026-08-25T17:13:52Z",
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
                 "stars": 39
@@ -219,7 +219,7 @@
             "last_commit": "2026-06-23T13:33:19Z",
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16055
+            "stars": 16057
           }
         },
         {
@@ -257,7 +257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:31:26.701Z",
+    "last_updated": "2026-08-25T21:18:59.195Z",
     "original_repository": "DevOpsHiveHQ/awesome-kustomize",
     "original_repository_id": 580511160,
     "original_repository_sha": "9ffa6628725ac877ce54d1fd18715893c79c4a81",
