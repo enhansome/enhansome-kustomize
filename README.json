@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KSOPS - A Flexible Kustomize Plugin for SOPS Encrypted Resources",
+                "homepage": null,
                 "id": 217334716,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-10T17:21:18Z",
+                "open_issues": 36,
                 "owner": "viaduct-ai",
                 "repo": "kustomize-sops",
-                "stars": 844
+                "stars": 844,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kustomize generator plugin that generates Secrets from sops-encrypted files",
+                "homepage": null,
                 "id": 208046421,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-11T09:29:01Z",
+                "open_issues": 4,
                 "owner": "goabout",
                 "repo": "kustomize-sopssecretgenerator",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -44,12 +54,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes secrets generator plugin for kustomize",
+                "homepage": null,
                 "id": 311134491,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-07T17:05:26Z",
+                "open_issues": 3,
                 "owner": "bbl",
                 "repo": "secretize",
-                "stars": 71
+                "stars": 71,
+                "topics": [
+                  "azure-vault",
+                  "hashicorp-vault",
+                  "k8s-secret",
+                  "kubernetes",
+                  "kubernetes-secrets",
+                  "kustomize",
+                  "kustomize-plugin",
+                  "secret-management"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -60,12 +84,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔀 Merger 🔀 A Kustomize plugin generating manifests seamlessly by extending Kustomize merge strategies (schemaless StrategicMerge).",
+                "homepage": null,
                 "id": 688675400,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:37:08Z",
+                "open_issues": 2,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "golang",
+                  "krm",
+                  "kubernetes",
+                  "kustomize",
+                  "kustomize-plugin",
+                  "merge"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -76,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kustomize generator plugin to generate Open Cluster Management policies",
+                "homepage": null,
                 "id": 403791820,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T16:13:04Z",
+                "open_issues": 6,
                 "owner": "open-cluster-management-io",
                 "repo": "policy-generator-plugin",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -92,12 +133,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kustomize KRM function to run builtin transformers",
+                "homepage": null,
                 "id": 591785019,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T22:59:50Z",
+                "open_issues": 5,
                 "owner": "kaweezle",
                 "repo": "krmfnbuiltin",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "gitops",
+                  "kubernetes",
+                  "kustomize",
+                  "kustomize-plugin"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             }
@@ -115,12 +166,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kustomize Plugin to transform values in HelmRelease CR",
+                "homepage": null,
                 "id": 269263322,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-29T01:26:13Z",
+                "open_issues": 0,
                 "owner": "openinfradev",
                 "repo": "kustomize-helm-transformer",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "decapod",
+                  "helm",
+                  "helm-operator",
+                  "kustomize",
+                  "kustomize-plugin"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             },
@@ -131,12 +193,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🫥 Kustomize transformer plugin for strict templating of resources",
+                "homepage": null,
                 "id": 506840326,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-11-29T17:09:09Z",
+                "open_issues": 3,
                 "owner": "joshdk",
                 "repo": "template-transformer",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "go",
+                  "golang",
+                  "kubernetes",
+                  "kustomization",
+                  "kustomize",
+                  "kustomize-plugin",
+                  "templating"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             }
@@ -154,12 +229,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin built around Kubeconform to validate manifests schema within Kusomize.",
+                "homepage": null,
                 "id": 624932700,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-09T22:32:11Z",
+                "open_issues": 1,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-kubeconform",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "kubernetes",
+                  "kustomize",
+                  "kustomize-plugin",
+                  "kustomize-validator",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
             }
@@ -181,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated and collaborative list of awesome Kustomize resources",
+            "homepage": null,
             "id": 1067815638,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2025-10-26T10:14:29Z",
+            "open_issues": 0,
             "owner": "3deep5me",
             "repo": "awesome-kustomize",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:01:57.119Z"
         }
@@ -203,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "asdf plugin for installing kustomize",
+            "homepage": null,
             "id": 193585397,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-18T19:16:58Z",
+            "open_issues": 4,
             "owner": "Banno",
             "repo": "asdf-kustomize",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:01:57.119Z"
         }
@@ -225,12 +321,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list for awesome kubernetes sources :ship::tada:",
+            "homepage": "https://ramitsurana.github.io/awesome-kubernetes",
             "id": 44315167,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-23T13:33:19Z",
+            "open_issues": 83,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16060
+            "stars": 16060,
+            "topics": [
+              "aws",
+              "azure",
+              "books",
+              "cloud-providers",
+              "deploy-kubernetes",
+              "docker",
+              "enterprise-kubernetes-products",
+              "google-cloud",
+              "google-kubernetes",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-sources",
+              "machine-learning",
+              "meetup",
+              "minikube",
+              "monitoring-kubernetes",
+              "resource",
+              "schedule"
+            ]
           },
           "first_seen": "2026-08-28T05:01:57.119Z"
         },
@@ -241,12 +361,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative list of awesome helm charts and resources. PRs are welcome!",
+            "homepage": null,
             "id": 132810604,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-05-16T21:05:30Z",
+            "open_issues": 8,
             "owner": "cdwv",
             "repo": "awesome-helm",
-            "stars": 1111
+            "stars": 1111,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "helm",
+              "helm-charts",
+              "k8s",
+              "kuberenetes"
+            ]
           },
           "first_seen": "2026-08-28T05:01:57.119Z"
         },
@@ -257,12 +389,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of kubectl plugins",
+            "homepage": null,
             "id": 207302304,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-11T21:20:57Z",
+            "open_issues": 2,
             "owner": "ishantanu",
             "repo": "awesome-kubectl-plugins",
-            "stars": 1008
+            "stars": 1008,
+            "topics": [
+              "awesome-list",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T05:01:57.119Z"
         }
@@ -271,15 +413,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:57:30.626Z",
+    "last_updated": "2026-08-29T04:56:43.480Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated and collaborative list of awesome Kustomize resources",
+      "homepage": null,
       "id": 580511160,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-04-07T17:10:50Z",
+      "open_issues": 2,
       "owner": "DevOpsHiveHQ",
       "repo": "awesome-kustomize",
-      "stars": 122
+      "stars": 122,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "gitops",
+        "kubectl",
+        "kubernetes",
+        "kustomize",
+        "kustomize-plugin"
+      ]
     },
     "original_repository_sha": "9ffa6628725ac877ce54d1fd18715893c79c4a81",
     "enhanced_repository": "enhansome/enhansome-kustomize",
