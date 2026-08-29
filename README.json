@@ -62,7 +62,7 @@
                 "archived": false,
                 "id": 688675400,
                 "language": "Go",
-                "last_commit": "2026-08-28T01:57:50Z",
+                "last_commit": "2026-08-29T02:37:08Z",
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
                 "stars": 39
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:01:57.119Z",
+    "last_updated": "2026-08-29T02:57:30.626Z",
     "original_repository_info": {
       "archived": false,
       "id": 580511160,
