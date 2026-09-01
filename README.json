@@ -89,7 +89,7 @@
                 "id": 688675400,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T22:38:17Z",
+                "last_commit": "2026-09-01T16:51:33Z",
                 "open_issues": 2,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
@@ -117,8 +117,8 @@
                 "id": 403791820,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-11T16:13:04Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-01T18:29:12Z",
+                "open_issues": 5,
                 "owner": "open-cluster-management-io",
                 "repo": "policy-generator-plugin",
                 "stars": 35,
@@ -327,10 +327,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-06-23T13:33:19Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16062,
+            "stars": 16063,
             "topics": [
               "aws",
               "azure",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:13:29.123Z",
+    "last_updated": "2026-09-01T22:54:26.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
