@@ -327,10 +327,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-09-03T13:33:39Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16070,
+            "stars": 16068,
             "topics": [
               "aws",
               "azure",
@@ -398,7 +398,7 @@
             "open_issues": 2,
             "owner": "ishantanu",
             "repo": "awesome-kubectl-plugins",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "awesome-list",
               "kubectl",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:29:25.435Z",
+    "last_updated": "2026-09-06T22:34:22.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
