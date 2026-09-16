@@ -21,7 +21,7 @@
                 "open_issues": 36,
                 "owner": "viaduct-ai",
                 "repo": "kustomize-sops",
-                "stars": 851,
+                "stars": 852,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:01:57.119Z"
@@ -39,7 +39,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-11T09:29:01Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "goabout",
                 "repo": "kustomize-sopssecretgenerator",
                 "stars": 115,
@@ -89,7 +89,7 @@
                 "id": 688675400,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T21:33:40Z",
+                "last_commit": "2026-09-16T22:46:25Z",
                 "open_issues": 2,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
@@ -330,7 +330,7 @@
             "open_issues": 91,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16076,
+            "stars": 16081,
             "topics": [
               "aws",
               "azure",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:19:29.313Z",
+    "last_updated": "2026-09-16T23:25:18.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
