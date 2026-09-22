@@ -118,10 +118,10 @@ Snippets are Kustmoize use-case-specific examples that can help with common day-
 
 ## Related lists
 
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,089 | 🐛 91 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
-* [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,113 | 🐛 8 | 📅 2026-05-16 - A curated list of awesome Helm charts and resources.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,090 | 🐛 91 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
+* [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,114 | 🐛 9 | 📅 2026-05-16 - A curated list of awesome Helm charts and resources.
 * [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,009 | 🐛 2 | 📅 2026-08-11 - A curated list of awesome Kubectl plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
