@@ -62,7 +62,7 @@ Kustomize has 3 plugin types: `generator`, `transformer`, and `validator`.
 * [KSops](https://github.com/viaduct-ai/kustomize-sops) ⭐ 851 | 🐛 36 | 🌐 Go | 📅 2026-07-10 - Generating Secrets from sops-encrypted files (Exec).
 * [SopsSecretGenerator](https://github.com/goabout/kustomize-sopssecretgenerator/) ⭐ 114 | 🐛 3 | 🌐 Go | 📅 2024-04-11 - Generating Secrets from sops-encrypted files (Exec KRM, Exec).
 * [Secretize](https://github.com/bbl/secretize) ⭐ 71 | 🐛 3 | 🌐 Go | 📅 2026-04-07 - Generating Kubernetes Secret from various sources. It's like a Swiss Army knife, but for Kubernetes secrets (Containerized KRM, Exec KRM, Exec).
-* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 2 | 🌐 Go | 📅 2026-10-02 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
+* [Merger](https://github.com/aabouzaid/kustomize-plugin-merger) ⭐ 39 | 🐛 2 | 🌐 Go | 📅 2026-10-03 - Generating manifests seamlessly by extending Kustomize merge strategies using schemaless StrategicMerge (Containerized KRM, Exec KRM).
 * [PolicyGenerator](https://github.com/open-cluster-management-io/policy-generator-plugin) ⭐ 35 | 🐛 5 | 🌐 Go | 📅 2026-09-28 - Generating Open Cluster Management policies (Exec).
 * [KRMFfnBuiltin](https://github.com/kaweezle/krmfnbuiltin) ⭐ 5 | 🐛 5 | 🌐 Go | 📅 2024-05-01 - Running builtin generators transformers (Exec).
 
@@ -118,7 +118,7 @@ Snippets are Kustmoize use-case-specific examples that can help with common day-
 
 ## Related lists
 
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,108 | 🐛 94 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,109 | 🐛 94 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
 * [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,116 | 🐛 10 | 📅 2026-05-16 - A curated list of awesome Helm charts and resources.
 * [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,009 | 🐛 2 | 📅 2026-09-30 - A curated list of awesome Kubectl plugins.
 
