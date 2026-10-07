@@ -55,7 +55,7 @@ Kustomize has 3 plugin types: `generator`, `transformer`, and `validator`.
 > Note
 >
 > If you are a plugin developer, it's highly recommended to support the new plugins standard
-> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,178 | 🐛 199 | 🌐 Go | 📅 2026-10-03.
+> [KRM function](https://github.com/kubernetes-sigs/kustomize/blob/master/cmd/config/docs/api-conventions/functions-spec.md) ⭐ 12,179 | 🐛 199 | 🌐 Go | 📅 2026-10-03.
 
 ### Generators
 
@@ -118,10 +118,10 @@ Snippets are Kustmoize use-case-specific examples that can help with common day-
 
 ## Related lists
 
-* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,111 | 🐛 95 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) ⭐ 16,111 | 🐛 97 | 🌐 Shell | 📅 2026-09-21 - A curated list of awesome Kubernetes resources.
 * [Awesome Helm](https://github.com/cdwv/awesome-helm) ⭐ 1,117 | 🐛 10 | 📅 2026-05-16 - A curated list of awesome Helm charts and resources.
-* [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,009 | 🐛 2 | 📅 2026-09-30 - A curated list of awesome Kubectl plugins.
+* [Awesome Kubectl plugins](https://github.com/ishantanu/awesome-kubectl-plugins) ⭐ 1,008 | 🐛 2 | 📅 2026-09-30 - A curated list of awesome Kubectl plugins.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
