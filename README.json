@@ -39,7 +39,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2024-04-11T09:29:01Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "goabout",
                 "repo": "kustomize-sopssecretgenerator",
                 "stars": 114,
@@ -89,7 +89,7 @@
                 "id": 688675400,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T12:38:23Z",
+                "last_commit": "2026-10-11T20:42:47Z",
                 "open_issues": 2,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
@@ -330,7 +330,7 @@
             "open_issues": 99,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16116,
+            "stars": 16118,
             "topics": [
               "aws",
               "azure",
@@ -367,7 +367,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-05-16T21:05:30Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "cdwv",
             "repo": "awesome-helm",
             "stars": 1118,
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T23:59:42.005Z",
+    "last_updated": "2026-10-12T00:06:52.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
