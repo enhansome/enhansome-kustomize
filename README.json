@@ -89,7 +89,7 @@
                 "id": 688675400,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T21:55:51Z",
+                "last_commit": "2026-10-22T22:21:21Z",
                 "open_issues": 2,
                 "owner": "DevOpsHiveHQ",
                 "repo": "kustomize-plugin-merger",
@@ -327,7 +327,7 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-10-21T09:16:57Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
             "stars": 16129,
@@ -370,7 +370,7 @@
             "open_issues": 14,
             "owner": "cdwv",
             "repo": "awesome-helm",
-            "stars": 1119,
+            "stars": 1120,
             "topics": [
               "awesome",
               "awesome-list",
@@ -398,7 +398,7 @@
             "open_issues": 2,
             "owner": "ishantanu",
             "repo": "awesome-kubectl-plugins",
-            "stars": 1010,
+            "stars": 1009,
             "topics": [
               "awesome-list",
               "kubectl",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T23:49:15.844Z",
+    "last_updated": "2026-10-22T23:47:10.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
