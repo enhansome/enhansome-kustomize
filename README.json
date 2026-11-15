@@ -330,7 +330,7 @@
             "open_issues": 104,
             "owner": "ramitsurana",
             "repo": "awesome-kubernetes",
-            "stars": 16138,
+            "stars": 16140,
             "topics": [
               "aws",
               "azure",
@@ -413,7 +413,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T01:07:54.794Z",
+    "last_updated": "2026-11-15T00:32:04.017Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and collaborative list of awesome Kustomize resources",
